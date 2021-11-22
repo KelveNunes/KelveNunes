@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning about design patterns
+- 🌱 I’m currently learning about scrum
 
 <div align="center">
   <a href="https://github.com/KelveNunes">
