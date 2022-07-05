@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning about Agile Software Development and management
+
 
 <div align="center">
   <a href="https://github.com/KelveNunes">
