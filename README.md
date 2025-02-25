@@ -14,7 +14,6 @@
   <img align="center" alt="Kelve-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kelve-C++" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
   <img align="center" alt="kelve-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kelve-C" height="30" width="40" src="https://icon-icons.com/downloadimage.php?id=135457&root=2248/SVG/&file=language_c_icon_135457.svg">
   <img align="center" alt="Kelve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="kelve-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
